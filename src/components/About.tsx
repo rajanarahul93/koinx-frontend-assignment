@@ -61,7 +61,7 @@ function About() {
                 <div className="p-3">
                   <img
                     className="w-32 h-32 rounded-xl object-right object-cover"
-                    src="/src/assets/profits.svg"
+                    src="/images/profits.svg"
                     alt=""
                   />
                 </div>
@@ -81,7 +81,7 @@ function About() {
                 <div className="p-3">
                   <img
                     className="w-32 h-32 rounded-xl object-right object-cover"
-                    src="/src/assets/liability.svg"
+                    src="/images/liability.svg"
                     alt=""
                   />
                 </div>
