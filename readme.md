@@ -20,7 +20,7 @@ https://koinx-frontend-assignment-gamma.vercel.app/
 
 The design for this project is available in the Figma file below:
 
-[https://www.figma.com/design/VRj5MqVPoQdj5N7AwmYc98/KoinX---Frontend-Intern-Assignment?node-id=1-496&t=mjz62x9MilDcS3gi-0](#)
+https://www.figma.com/design/VRj5MqVPoQdj5N7AwmYc98/KoinX---Frontend-Intern-Assignment?node-id=1-496&t=mjz62x9MilDcS3gi-0
 
 ## How to Run the Project Locally
 
